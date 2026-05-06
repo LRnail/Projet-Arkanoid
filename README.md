@@ -1,2 +1,3 @@
-# Projet-Arkanoid
-Code de François Brucker
+Python utilisé : 3.13
+
+Module utilisé : requirements.txt
